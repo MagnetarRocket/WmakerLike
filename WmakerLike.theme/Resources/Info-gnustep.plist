@@ -10,6 +10,18 @@
     GSThemeIcon = "Thematic.png";
     GSThemeLicense = "See included files for licence files.";
     GSThemeTiles = {
+	GSScrollerHorizontalSlot = {
+	    FileName = "GSScrollerHorizontalSlot.tif";
+	    FillStyle = Repeat;
+	    HorizontalDivision = 5;
+	    VerticalDivision = 5;
+	};
+	GSScrollerVerticalSlot = {
+	    FileName = "GSScrollerVerticalSlot.tif";
+	    FillStyle = Repeat;
+	    HorizontalDivision = 5;
+	    VerticalDivision = 5;
+	};
 	NSMenuItem = {
 	    FileName = "NSMenuItem.tif";
 	    FillStyle = Scale;
