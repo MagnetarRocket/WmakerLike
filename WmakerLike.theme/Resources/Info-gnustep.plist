@@ -1,0 +1,21 @@
+{
+    GSThemeAuthors = (
+	MagnatarRocket
+    );
+    GSThemeDetails = "A theme that attempts to ensure that GNUStep won't look out of place when pared with the WINGs of WMaker.";
+    GSThemeDomain = {
+	GSBackHandlesWindowDecorations = YES;
+	NSMenuInterfaceStyle = NSNextStepInterfaceStyle;
+    };
+    GSThemeIcon = "Thematic.png";
+    GSThemeLicense = "See included files for licence files.";
+    GSThemeTiles = {
+	NSMenuItem = {
+	    FileName = "NSMenuItem.tif";
+	    FillStyle = Scale;
+	    HorizontalDivision = 10;
+	    VerticalDivision = 10;
+	};
+    };
+    GSThemeVersion = "0.0";
+}
